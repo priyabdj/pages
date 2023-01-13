@@ -1,0 +1,108 @@
+.schl{
+    height: 548px;
+    width: 645px;
+    border: 2px solid black;
+    background-color: lightgreen;
+    
+}
+.ab{
+   /* height: 6px;
+    width: 20px;*/color: red;
+    font-size: 35px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.xy{
+    padding: 20px;
+    height: 65px;
+    width: 602px;
+    font-size: 25px;
+    color: brown;
+    border: 2px solid brown;
+    background-color: lightyellow;
+}
+.cd{
+    height: 188px;
+    width: 195px;
+    float: left;
+    border: 2px dotted black; 
+    background-image: url(/i1.jpg);
+}
+.ef{height: 188px;
+    width: 195px;
+    float: right;
+    border: 2px dotted black; 
+    background-image: url(/i2.jpg);
+}
+.gh{height: 188px;
+    width: 195px;
+    background-image: url(/i3.jpg);
+    border: 2px dotted black;
+}
+.z{
+    height: 18px;
+    width: 185px;
+    text-align: center;
+    margin-top: 189px;
+    border: 2px solid black;
+    color:blue;
+    background-color: azure;
+}
+.y{height: 18px;
+    width: 185px;
+    text-align: center;
+    margin-top: 189px;
+    border: 2px solid black;
+    color:blue;
+    background-color: azure;
+}
+.x{height: 18px;
+    width: 185px;
+    text-align: center;
+    /* margin-top: 189px; */
+    border: 2px solid black;
+    color:blue;
+    background-color: azure;
+}
+.first{height: 35px;
+    width: 185px;
+    font-size: 20px;
+    text-align: center;
+     margin-top: 50px;
+    border: 2px solid rgb(64, 122, 143);
+    color:blue;
+    background-color: rgb(14, 16, 16);
+    
+}
+.second{height: 35px;
+    width: 185px;
+    font-size: 20px;
+    text-align: center;
+     border: 2px solid rgb(64, 122, 143);
+    color:blue;
+    background-color: rgb(14, 16, 16);
+}
+.third{
+    margin-top: 223px;
+    height: 35px;
+    width: 185px;
+    font-size: 20px;
+    text-align: center;
+     /* margin-bottom: 250px;  */
+    border: 2px solid rgb(39, 125, 156);
+    color:blue;
+    background-color: rgb(14, 16, 16);
+}
+#y{
+    margin-top:50px;
+    height: 35px;
+    width: 185px;
+    font-size: 20px;
+    text-align: center;
+     /* margin-bottom: 250px;  */
+    border: 2px solid rgb(39, 125, 156);
+    color:blue;
+    background-color: rgb(14, 16, 16);
+
+}
+    
+
